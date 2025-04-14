@@ -1,3 +1,6 @@
+👉 [Try it out here!](https://elite-poker-sidepot-trainer-phase3.streamlit.app)
+
+
 # ♠️ Elite Poker Sidepot Trainer
 
 An interactive training and quiz tool built with Python and Streamlit that helps players master the mechanics of side pots in multi-way all-in poker scenarios. Designed for poker dealers, coaches, and competitive players who want to deeply understand side pot distribution logic under pressure.
