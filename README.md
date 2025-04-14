@@ -1,4 +1,5 @@
-👉 [Try it out here!](https://elite-poker-sidepot-trainer-phase3.streamlit.app)
+[![♠️ Try the App](https://img.shields.io/badge/♠️_Try_the_App-Click_Here-green?style=for-the-badge)](https://elite-poker-sidepot-trainer-phase3.streamlit.app)
+
 
 
 # ♠️ Elite Poker Sidepot Trainer
